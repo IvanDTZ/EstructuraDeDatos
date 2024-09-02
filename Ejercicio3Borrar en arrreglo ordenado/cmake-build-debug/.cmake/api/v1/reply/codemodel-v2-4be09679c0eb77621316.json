@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ejercicio3Borrar_en_arrreglo_ordenado",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio3Borrar_en_arrreglo_ordenado::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio3Borrar_en_arrreglo_ordenado-Debug-6d678218bfd03ad009e4.json",
+					"name" : "Ejercicio3Borrar_en_arrreglo_ordenado",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/IvanR/Documents/EstructuraDeDatos/Ejercicio3Borrar en arrreglo ordenado/cmake-build-debug",
+		"source" : "/Users/IvanR/Documents/EstructuraDeDatos/Ejercicio3Borrar en arrreglo ordenado"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

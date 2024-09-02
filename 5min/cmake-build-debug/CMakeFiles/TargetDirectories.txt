@@ -1,0 +1,3 @@
+/Users/IvanR/Documents/EstructuraDeDatos/5min/cmake-build-debug/CMakeFiles/5min.dir
+/Users/IvanR/Documents/EstructuraDeDatos/5min/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/IvanR/Documents/EstructuraDeDatos/5min/cmake-build-debug/CMakeFiles/rebuild_cache.dir
