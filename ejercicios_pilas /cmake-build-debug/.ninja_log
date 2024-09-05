@@ -1,0 +1,12 @@
+# ninja log v6
+1	324	1725553661734644850	CMakeFiles/ejercicios_pilas_.dir/main.cpp.o	d5bc25c05e0cf12f
+326	356	1725553662059357736	ejercicios_pilas_	8a3d776582af449
+4	608	1725553973093158916	CMakeFiles/ejercicios_pilas_.dir/main.cpp.o	d5bc25c05e0cf12f
+4	842	1725554081353191606	CMakeFiles/ejercicios_pilas_.dir/utils/utils.cpp.o	7ca4ca43c6df2ad4
+842	956	1725554082191606606	ejercicios_pilas_	1e45bca1ef31f7fa
+4	417	1725554389395999117	CMakeFiles/ejercicios_pilas_.dir/utils/utils.cpp.o	7ca4ca43c6df2ad4
+3	396	1725554476229813174	CMakeFiles/ejercicios_pilas_.dir/main.cpp.o	d5bc25c05e0cf12f
+396	509	1725554476622618573	ejercicios_pilas_	1e45bca1ef31f7fa
+9	488	1725554672421633831	CMakeFiles/ejercicios_pilas_.dir/main.cpp.o	d5bc25c05e0cf12f
+10	489	1725554672422138115	CMakeFiles/ejercicios_pilas_.dir/utils/utils.cpp.o	7ca4ca43c6df2ad4
+489	581	1725554672901161837	ejercicios_pilas_	1e45bca1ef31f7fa

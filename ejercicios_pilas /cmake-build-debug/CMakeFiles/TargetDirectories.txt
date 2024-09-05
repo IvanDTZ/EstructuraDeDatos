@@ -1,0 +1,3 @@
+/Users/IvanR/Documents/EstructuraDeDatos/ejercicios_pilas /cmake-build-debug/CMakeFiles/ejercicios_pilas_.dir
+/Users/IvanR/Documents/EstructuraDeDatos/ejercicios_pilas /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/IvanR/Documents/EstructuraDeDatos/ejercicios_pilas /cmake-build-debug/CMakeFiles/rebuild_cache.dir
