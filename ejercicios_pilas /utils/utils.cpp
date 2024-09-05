@@ -48,6 +48,7 @@ void ScreenStack::display() {
     } else {
         cout << "Pantallas en la pila: \n";
         for (int i = top; i >= 0; i--) {
+
             cout << screens[i] << "\n";
         }
     }
